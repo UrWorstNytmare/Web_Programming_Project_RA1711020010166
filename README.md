@@ -28,5 +28,5 @@ To run this project XAMPP Control Panel is required
 1. Put Blazing Glaze folder in xampp/htdocs
 2. User will have to Start XAMPP server (Apache and MySQL) and create database in "localhost/phpmyadmin"
    (Create database and table as shown in Screenshot)
-3. After creating database in phpmyadmin
+3. After creating database and table in phpmyadmin
 4. Type "localhost/Blazing Glaze/home.html" in address bar of any browser
