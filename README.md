@@ -6,7 +6,7 @@ which gets used in web development,
 
 About This Project
 
-Project Name:--  Blazing Glaze - An Art Gallery
+Project Name: Blazing Glaze - An Art Gallery
 
 This project is about making an online art gallery where people
 can post their art and download arts. An art can be of any type
